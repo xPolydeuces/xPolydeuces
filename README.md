@@ -33,7 +33,7 @@ I enjoy broadening my horizons and learning new things. In 2023 I set myself a g
 [LinkedIn]: https://img.shields.io/badge/-linkedin-0073B1?style=for-the-badge&logo=linkedin
 [LinkedIn-url]: https://www.linkedin.com/in/bartokot/
 [Resume]: https://img.shields.io/badge/Resume-332B40?style=for-the-badge
-[Resume-url]: blank
+[Resume-url]: https://resume.io/r/wlgicSmFY
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [MongoDB.com]: https://img.shields.io/badge/MongoDB-00684A?style=for-the-badge&logo=mongodb&logoColor=00ED64
