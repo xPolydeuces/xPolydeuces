@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there, I'm Bart 👋
+
+### A CS student and beginner developer from Warsaw, Poland.
+
+I enjoy broadening my horizons and learning new things. In 2023 I set myself a goal of completing the <i>365 Days of Code Challenge</i>. Right now I am learning web development, including React framework. I am working on developing my skills everyday with dedication, passion and a keen interest in continuous learning. 
+
+## 
 
 <!--
 **xPolydeuces/xPolydeuces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
