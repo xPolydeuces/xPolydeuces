@@ -44,6 +44,6 @@ I enjoy broadening my horizons and learning new things. In 2023 I set myself a g
 [Node-url]: https://nodejs.org/en/
 [Jest.js]: https://img.shields.io/badge/Jest-EEC5B9?style=for-the-badge&logo=jest&logoColor=C63D14
 [Jest-url]: https://jestjs.io/
-[General-stats-url]: https://github-readme-stats.vercel.app/api?username=xPolydeuces&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false
+[General-stats-url]: https://github-readme-stats.vercel.app/api?username=xPolydeuces&theme=tokyonight&hide_border=false
 [Github-streak-url]: https://github-readme-streak-stats.herokuapp.com/?user=xPolydeuces&theme=tokyonight&hide_border=false
 [Github-trophies-url]: https://github-profile-trophy.vercel.app/?username=xPolydeuces&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4
