@@ -5,7 +5,6 @@
 I enjoy broadening my horizons and learning new things. In 2023 I set myself a goal of completing the <i>365 Days of Code Challenge</i>. Right now I am learning web development, including React framework. I am working on developing my skills everyday with dedication, passion and a keen interest in continuous learning. 
 
 ## Find me!
-* [![Resume][Resume]][Resume-url]
 * [![LinkedIn][LinkedIn]][LinkedIn-url]
 
 ## Tools I use
