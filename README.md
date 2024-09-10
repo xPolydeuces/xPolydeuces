@@ -4,9 +4,6 @@
 
 I enjoy broadening my horizons and learning new things. Right now I am learning web development, including React framework. I am working on developing my skills everyday with dedication, passion and a keen interest in continuous learning. 
 
-## Find me!
-* [![LinkedIn][LinkedIn]][LinkedIn-url]
-
 ## Tools I use
 ![HTML5][HTML5]
 ![CSS3][CSS3]
