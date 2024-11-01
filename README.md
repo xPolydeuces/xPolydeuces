@@ -1,4 +1,4 @@
-## Hi there, I'm Polydeuces 👋
+## Hi there, I'm Bartosz 👋
 
 ### A CS engineer and beginner developer from Warsaw, Poland.
 
